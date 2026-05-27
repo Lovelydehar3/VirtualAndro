@@ -5,7 +5,7 @@ VirtualAndro is a no-root Android work-profile manager for running untrusted APK
 This is not a full emulator or hardware VM. Android does not
 It may harm your device make sure before install.
 # Disclaimer (Important)
-Its not fully optimze for android,we are not taking any responsbility of any hardware or software .
+Its not fully optimze for android,we are not taking any responsbility of any hardware or software damage.
 
 ## Links
 
