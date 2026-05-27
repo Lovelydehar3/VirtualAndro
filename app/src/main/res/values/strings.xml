@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VirtualAndro</string>
+    <string name="device_admin_description">Creates and manages the isolated work profile used for VirtualAndro sandboxed apps.</string>
+</resources>

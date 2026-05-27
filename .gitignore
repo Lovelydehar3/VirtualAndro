@@ -1,0 +1,17 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+local.properties
+
+# Local tool downloads used for this workspace build
+.jdk/
+.gradle-local/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
