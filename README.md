@@ -1,6 +1,6 @@
-# Sandbox Vault
+# VirtualAndro
 
-Sandbox Vault is a no-root Android work-profile manager for running untrusted APKs in a separate Android managed profile.
+VirtualAndro is a no-root Android work-profile manager for running untrusted APKs in a separate Android managed profile.
 
 This is not a full emulator or hardware VM. Android does not
 
