@@ -13,6 +13,8 @@ Its not fully optimze for android,we are not taking any responsbility of any har
 - GitHub: https://github.com/Lovelydehar3
 - LinkedIn: https://www.linkedin.com/in/lovepreet-singh-6200a8287/
 - Email: lovepreetsingh73437@gmail.com
+
+
  let a normal third-party app securely run arbitrary APKs inside its own process with zero host risk. The closest supported no-root model is a managed work profile, where Android separates apps, app data, accounts, storage, and many cross-profile sharing paths from the personal profile.
 
 ## Security Model
